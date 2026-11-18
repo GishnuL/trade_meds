@@ -1,4 +1,4 @@
-import { Product, OrderRecord } from '../types/store';
+import type { Product, OrderRecord } from '../types/store.ts';
 
 export const HERO_IMAGE = '/src/assets/images/hero_medical_team_1794936758061.jpg';
 export const HERO_LABCOAT_IMG = '/src/assets/images/hero_chief_labcoat_1794938192736.jpg';
